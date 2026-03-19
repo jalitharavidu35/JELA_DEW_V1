@@ -26,16 +26,16 @@ const {
 } = require('baileys');
 
 // ---------------- CONFIG ----------------
-const BOT_NAME_FREE = 'ғʀᴇᴇ-ᴍɪɴɪ';
+const BOT_NAME_FREE = 'JELA-DEW';
 
 const config = {
   AUTO_VIEW_STATUS: 'true',
   AUTO_LIKE_STATUS: 'true',
   AUTO_RECORDING: 'false',
-  AUTO_LIKE_EMOJI: ['🎈','👀','❤️‍🔥','💗','😩','☘️','🗣️','🌸'],
+  AUTO_LIKE_EMOJI: ['🫢','👀','❤️‍🔥','💗','😩','🥸','🗣️','🥱'],
   PREFIX: '.',
   MAX_RETRIES: 3,
-  GROUP_INVITE_LINK: 'https://chat.whatsapp.com/Dh7gxX9AoVD8gsgWUkhB9r',
+  GROUP_INVITE_LINK: `https://whatsapp.com/channel/0029VbCOq8w4NVisUk38Gt0Q',
   FREE_IMAGE: 'https://files.catbox.moe/f9gwsx.jpg',
   NEWSLETTER_JID: '120363402507750390@newsletter', // replace with your own newsletter its the main newsletter
   
@@ -46,8 +46,8 @@ const config = {
   SUPPORT_NEWSLETTER: {
     jid: '120363402507750390@newsletter',  // Your channel
     emojis: ['❤️', '🌟', '🔥', '💯'],  // Support emojis
-    name: 'Malvin King Tech',
-    description: 'Bot updates & support channel'
+    name: '𝗝𝗘𝗟𝗔_𝗗𝗘𝗪',
+    description: '𝘄𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗷𝗲𝗹𝗮 𝗱𝗲𝘄 𝗺𝗱'
   },
   
   // ✅ Default newsletters (U can customize these) add all your other newsletters
@@ -69,13 +69,13 @@ const config = {
   ],
   
   OTP_EXPIRY: 300000,
-  OWNER_NUMBER: process.env.OWNER_NUMBER || '263714757857',
+  OWNER_NUMBER: process.env.OWNER_NUMBER || '94783118690',
   CHANNEL_LINK: 'https://whatsapp.com/channel/0029VbB3YxTDJ6H15SKoBv3S',
-  BOT_NAME: 'ғʀᴇᴇ-ᴍɪɴɪ',
+  BOT_NAME: '𝗝𝗘𝗟𝗔_𝗗𝗘𝗪',
   BOT_VERSION: '1.0.2',
-  OWNER_NAME: 'ᴍʀ xᴅᴋɪɴɢ',
+  OWNER_NAME: '𝗝𝗔𝗟𝗜𝗧𝗛𝗔 𝗥𝗔𝗩𝗜𝗡𝗗𝗨',
   IMAGE_PATH: 'https://files.catbox.moe/f9gwsx.jpg',
-  BOT_FOOTER: '> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ',
+  BOT_FOOTER: '> ᴘᴏᴡᴇʀᴇᴅ ʙʏ DL',
   BUTTON_IMAGES: { ALIVE: 'https://files.catbox.moe/f9gwsx.jpg' }
 };
 
@@ -644,7 +644,7 @@ case 'menu': {
 
 ╭─「  \`🤖${title}\`  」 ─➤*  
 *│
-*│*🥷 *Oᴡɴᴇʀ :* ${config.OWNER_NAME || 'ᴍʀ xᴅᴋɪɴɢ'}
+*│*🥷 *Oᴡɴᴇʀ :* ${config.OWNER_NAME || '𝗝𝗔𝗟𝗜𝗧𝗛𝗔 𝗥𝗔𝗩𝗜𝗡𝗗𝗨'}
 *│*✒️ *Pʀᴇғɪx :* ${config.PREFIX}
 *│*🧬 *Vᴇʀsɪᴏɴ :*  ${config.BOT_VERSION || 'ʟᴀᴛᴇsᴛ'}
 *│*🎈 *Pʟᴀᴛғᴏʀᴍ :* ${process.env.PLATFORM || 'Hᴇʀᴏᴋᴜ'}
@@ -653,11 +653,11 @@ case 'menu': {
 
 ╭────────￫
 │  🔧ғᴇᴀᴛᴜʀᴇs                  
-│  [1] 👑 ᴏᴡɴᴇʀ                           
-│  [2] 📥 ᴅᴏᴡɴʟᴏᴀᴅ                           
-│  [3] 🛠️ ᴛᴏᴏʟs                            
-│  [4] ⚙️ sᴇᴛᴛɪɴɢs                       
-│  [5] 🎨 ᴄʀᴇᴀᴛɪᴠᴇ                             
+│  [🫢 1.] 👑 ᴏᴡɴᴇʀ                           
+│  [🫢 2.] 📥 ᴅᴏᴡɴʟᴏᴀᴅ                           
+│  [🫢 3.] 🛠️ ᴛᴏᴏʟs                            
+│  [🫢 4.] ⚙️ sᴇᴛᴛɪɴɢs                       
+│  [🫢 5.] 🎨 ᴄʀᴇᴀᴛɪᴠᴇ                             
 ╰───────￫
 
 🎯 ᴛᴀᴘ ᴀ ᴄᴀᴛᴇɢᴏʀʏ ʙᴇʟᴏᴡ!
@@ -751,9 +751,9 @@ case 'developer': {
 
 ╭─ 🧑‍💼 𝐃𝐄𝐓𝐀𝐈𝐋𝐒
 │
-│ ✦ 𝐍𝐚𝐦𝐞 : ᴍʀ xᴅᴋɪɴɢ
-│ ✦ 𝐀𝐠𝐞  : 20+
-│ ✦ 𝐍𝐨.  : +263714757857
+│ ✦ 𝐍𝐚𝐦𝐞 : 𝗝𝗔𝗟𝗜𝗧𝗛𝗔 𝗥𝗔𝗩𝗜𝗡𝗗𝗨
+│ ✦ 𝐀𝐠𝐞  : 17+
+│ ✦ 𝐍𝐨.  : +94783118690
 │
 ╰────────✧
 
@@ -1285,7 +1285,7 @@ case 'mfdl': {
         // ✅ In catch also send Meta mention style
         const sanitized = (number || '').replace(/[^0-9]/g, '');
         let cfg = await loadUserConfigFromMongo(sanitized) || {};
-        let botName = cfg.botName || 'ғʀᴇᴇ';
+        let botName = cfg.botName || '𝗝𝗘𝗟𝗔_𝗗𝗘𝗪';
 
         await socket.sendMessage(sender, { text: '*❌ Internal Error. Please try again later.*' }, { quoted: fakevcard });
     }
@@ -1417,7 +1417,7 @@ case 'gpt': {
       await socket.sendMessage(sender, { 
         text: '*🚫 Please provide a message for AI.*',
         buttons: [
-          { buttonId: `${config.PREFIX}menu`, buttonText: { displayText: '📋 MENU' }, type: 1 }
+          { buttonId: `${config.PREFIX}menu`, buttonText: { displayText: '😏 MENU' }, type: 1 }
         ]
       }, { quoted: fakevcard });
       break;
@@ -1428,7 +1428,7 @@ case 'gpt': {
     let cfg = await loadUserConfigFromMongo(sanitized) || {};
     let botName = cfg.botName || 'free';
 
-    await socket.sendMessage(sender, { react: { text: '🤖', key: msg.key } });
+    await socket.sendMessage(sender, { react: { text: '😛', key: msg.key } });
     await socket.sendMessage(sender, { 
       text: '*⏳ AI thinking...*' 
     }, { quoted: fakevcard });
@@ -1477,7 +1477,7 @@ case 'gpt': {
     await socket.sendMessage(sender, { 
       text: '*❌ Internal AI Error. Please try again later.*',
       buttons: [
-        { buttonId: `${config.PREFIX}menu`, buttonText: { displayText: '📜 ᴍᴇɴᴜ' }, type: 1 }
+        { buttonId: `${config.PREFIX}menu`, buttonText: { displayText: '💀 ᴍᴇɴᴜ' }, type: 1 }
       ]
     }, { quoted: fakevcard });
   }
@@ -1505,8 +1505,8 @@ case 'tools': {
 `.trim();
 
     const buttons = [
-      { buttonId: `${config.PREFIX}menu`, buttonText: { displayText: "📜 ᴍᴇɴᴜ" }, type: 1 },
-      { buttonId: `${config.PREFIX}settings`, buttonText: { displayText: "⚙️ sᴇᴛᴛɪɴɢs" }, type: 1 }
+      { buttonId: `${config.PREFIX}menu`, buttonText: { displayText: "🥱 ᴍᴇɴᴜ" }, type: 1 },
+      { buttonId: `${config.PREFIX}settings`, buttonText: { displayText: "🥸 sᴇᴛᴛɪɴɢs" }, type: 1 }
     ];
 
     await socket.sendMessage(sender, {
@@ -1599,8 +1599,8 @@ case 'alive': {
 `;
 
     const buttons = [
-      { buttonId: `${config.PREFIX}menu`, buttonText: { displayText: "📜 ᴍᴇɴᴜ" }, type: 1 },
-      { buttonId: `${config.PREFIX}ping`, buttonText: { displayText: "⚡ ᴘɪɴɢ" }, type: 1 }
+      { buttonId: `${config.PREFIX}menu`, buttonText: { displayText: "😏 ᴍᴇɴᴜ" }, type: 1 },
+      { buttonId: `${config.PREFIX}ping`, buttonText: { displayText: "🤫 ᴘɪɴɢ" }, type: 1 }
     ];
 
     let imagePayload = String(logo).startsWith('http') ? { url: logo } : fs.readFileSync(logo);
