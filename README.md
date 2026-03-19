@@ -4,7 +4,7 @@
   <img src="https://files.catbox.moe/f9gwsx.jpg" alt="FREE SC WA BOT Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Malvin King</h1>
+<h1 align="center">Hi 👋, I'm JELA</h1>
 <h3 align="center">💻 Passionate Developer | Exploring the Boundless World of Technology 🌍</h3>
 
 <p align="center">
@@ -42,7 +42,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Developer
 
-**Malvin King (XdKing2)**
+**JALITHA RAVINDU**
 
 - GitHub: [@XdKing2](https://github.com/XdKing2)
 - WhatsApp Channel: [Join Channel](https://whatsapp.com/channel/0029VbB3YxTDJ6H15SKoBv3S)
@@ -55,9 +55,9 @@ For support, join our [WhatsApp Channel](https://whatsapp.com/channel/0029VbB3Yx
 
 <div align="center">
 
-**© 2025 Free Mini. Powered by Malvin Tech. All rights reserved.**
+**© 2025 . Powered by JELA Tech. All rights reserved.**
 
-Made with ❤️ by Malvin King
+Made with ❤️ by JALITHA RAVINDU
 
 </div>
 
